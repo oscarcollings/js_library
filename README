@@ -1,0 +1,8 @@
+*** The JavaScript library ***
+
+This is a library of JS functions that are designed to make life easier. Most
+of the functions are there because 1) they were mistakenly not included in the
+language, or 2) they are there to correct a design defect in the language.
+
+So far they are taken entirely from the collected publications of Douglas
+Crockford.
